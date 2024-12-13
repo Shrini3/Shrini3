@@ -1,9 +1,9 @@
 # Hello Everyone
 - 👋 Hi, I’m @Shrini3
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Available on [Twitter](https://twitter.com/Shrini092)
+- 📫 Available on [X](https://twitter.com/Shrini092)
 
 #### I know
 HTML, CSS, JS, React, Python
